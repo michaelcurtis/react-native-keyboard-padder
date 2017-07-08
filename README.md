@@ -10,4 +10,8 @@ https://github.com/Andr3wHur5t/react-native-keyboard-spacer
 I haven't tested this on Android. 
 Entirely possible there are better ways to do this.
 
+## Usage
+
+Take a look at index.ios.js
+
 

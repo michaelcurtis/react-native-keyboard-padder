@@ -4,6 +4,8 @@ Avoiding the keyboard when using a ListView or ScrollView in React Native is a h
 
 https://github.com/Andr3wHur5t/react-native-keyboard-spacer
 
+![image](https://media.giphy.com/media/wfEDPeFjQSyNG/giphy.gif)
+
 ## Disclaimer
 
 I haven't tested this on Android. 
